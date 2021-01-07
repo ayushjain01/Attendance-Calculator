@@ -1,0 +1,398 @@
+Class summary for grade 10 Info Science class - Ayush (2021-01-06)
+
+
+Number of students present: 160
+Number of students absent: 157
+
+Absentee list is as follows:
+
+SUMIT SINGH 10C
+GARIMA ARORA 10A
+GAGANDEEP KANG 10A
+ZEESHAN ZUBAIR 10C
+MUKESH MODI 10C
+SRINIVAS SRINIDHI 10A
+JASON LOBO 10C
+AKASH GANNA 10C
+AYUSH JAIN 10C
+RAM SINGH 10C
+MUSKAN AFREEN 10C
+SAMEER KHAN 10A
+ASHWIN 10A
+SHAM ARVIND 10C
+JASON LOBO 10B
+ADVIK 10A
+MANNY PAUL 10A
+PANKAJ TRIPATHI 10A
+ABBU BUCKER 10B
+MANSHI MEHTA 10B
+RAJENDRA SHARMA 10C
+NOOR KHAN 10B
+SYED SHAIK 10A
+MADHU JAIN 10A
+Y.C. DEVESHWAR 10C
+SARA SINGHANIA 10C
+VEDIKA GOENKA 10C
+ABHISHEK KUMAR 10B
+AYUSH TIWARI 10C
+SNEHA SOOD 10A
+Y.C. DEVESHWAR 10A
+AADI SHARMA 10A
+GAURI KHAN 10A
+PETER PARKER 10C
+NAZIA AHMED 10C
+ABHISHEK KUMAR 10A
+ARYAN K.G 10B
+MANNY PAUL 10B
+AYUSH TIWARI 10A
+HARMANPREET KAUR 10A
+MANNY PAUL 10C
+HARSH RAI 10A
+PRIYESH TIWARI 10A
+PAYAL JAIN 10B
+ROHIT TANWAR 10C
+ATHARV 10B
+RAJENDRA SHARMA 10B
+GAGANDEEP KANG 10B
+JAMES HARRIS 10C
+ROHIT TANWAR 10A
+VISHWAJEET ANAND 10C
+RAM SINGH 10B
+ABHISHEK R U 10C
+Y.C. DEVESHWAR 10B
+RAVISH KUMAR 10C
+NIDHI DANI 10C
+MAYANK GANDHI 10A
+MUKESH MODI 10A
+VEERESH RG 10B
+ADITI 10B
+KAPIL 10A
+VIGNESH BH 10A
+VARUN RAJPUT 10A
+SARTHAK JOSHI 10A
+NIDHI DANI 10A
+NAINA PATEL 10A
+DHRUVIKA DEVANAND 10A
+TULSI SHARMA 10C
+AMIT SAXENA 10B
+JAMES HARRIS 10B
+MARIA JAMES 10C
+SAMYUKTA SHEKAR 10C
+AMITA SINGH 10C
+ATHARV 10A
+VEDIKA GOENKA 10B
+ABHINANDU 10B
+SHAM ARVIND 10A
+SAMYUKTA SHEKAR 10B
+GAURI KHAN 10C
+NIDHI DANI 10B
+MARIA JAMES 10B
+SARTHAK JOSHI 10C
+SAMEER KHAN 10C
+GARIMA ARORA 10C
+AYUSH TIWARI 10B
+TULSI SHARMA 10A
+DEVIKA OBEROI 10C
+HARMANPREET KAUR 10C
+AMIT SAXENA 10A
+DHRUVIKA DEVANAND 10B
+ABHISHEK R U 10B
+VEERESH RG 10A
+DEVIKA OBEROI 10A
+HARSH RAI 10C
+MD. FOUZAN 10C
+SARA SINGHANIA 10B
+MANSHI MEHTA 10C
+ABHIJIT BANERJEE 10A
+VEERESH RG 10C
+ABBU BUCKER 10A
+NAMAN 10B
+KEVIN ARVIND 10A
+ANGEL ANGELICA 10A
+RAM SINGH 10A
+NOOR KHAN 10A
+VISHWAJEET ANAND 10A
+FALGUNI PATHAK 10A
+AKASH GANNA 10A
+ABHINANDU 10C
+SRINIVAS SRINIDHI 10C
+VARUN RAJPUT 10C
+ABINIVESH REDDY 10B
+AKASH GANNA 10B
+AMIT SAXENA 10C
+PANKAJ TRIPATHI 10C
+ZEESHAN ZUBAIR 10A
+KHUSHI SHARMA 10B
+ABINIVESH REDDY 10C
+MARIA JAMES 10A
+SARA SINGHANIA 10A
+MUSKAN AFREEN 10B
+SARTHAK JOSHI 10B
+ROHIT TANWAR 10B
+AYUSH JAIN 10A
+KAPIL 10C
+ARYAN K.G 10A
+MADHU JAIN 10B
+ANGEL ANGELICA 10C
+SAHIL JADHAV 10C
+PRANAV MISTRY 10B
+ADITI 10C
+VARUN RAJPUT 10B
+KEVIN ARVIND 10B
+MAYANK GANDHI 10C
+PANKAJ TRIPATHI 10B
+SRINIVAS SRINIDHI 10B
+CHATUR 10A
+ALI FAIZ 10A
+PRIYANKA SINGH 10C
+RAVISH KUMAR 10A
+VIBHUTI SHAH 10A
+NAMAN 10C
+ABINIVESH REDDY 10A
+ASHWIN 10B
+CHATUR 10C
+NAMAN 10A
+KHUSHI SHARMA 10C
+VIGNESH BH 10C
+GAGANDEEP KANG 10C
+ABHINANDU 10A
+TULSI SHARMA 10B
+PRANAV MISTRY 10C
+ALI FAIZ 10B
+MANASVI CHAUHAN 10B
+AADI SHARMA 10B
+JAMES HARRIS 10A
+SUMIT SINGH 10A
+
+Students joining late by at least 5 minutes are as follows:
+
+Garima Arora 10A joined at                        --> 10:55:46
+Gagandeep Kang 10A joined at                      --> 10:01:16
+Zeeshan Zubair 10C joined at                      --> 10:26:49
+Mukesh Modi 10C joined at                         --> 10:16:41
+Jason Lobo 10C joined at                          --> 10:55:24
+Akash Ganna 10C joined at                         --> 10:16:17
+Ayush Jain 10C joined at                          --> 10:37:21
+Ram SIngh 10C joined at                           --> 10:39:11
+Muskan Afreen 10C joined at                       --> 10:35:22
+Sameer Khan 10A joined at                         --> 10:33:53
+Ashwin 10A joined at                              --> 10:21:24
+Sham Arvind 10C joined at                         --> 10:51:19
+Jason Lobo 10B joined at                          --> 10:11:16
+Advik 10A joined at                               --> 10:24:53
+Manny Paul 10A joined at                          --> 10:18:37
+Pankaj Tripathi 10A joined at                     --> 10:50:02
+A SAMEER  AHMED 10A joined at                     --> 10:13:44
+Abbu Bucker 10B joined at                         --> 10:09:29
+Manshi Mehta 10B joined at                        --> 10:11:26
+Rajendra Sharma 10C joined at                     --> 10:25:08
+Noor Khan 10B joined at                           --> 10:54:26
+A SAMEER  AHMED 10C joined at                     --> 10:47:08
+Syed Shaik 10A joined at                          --> 10:11:25
+Madhu Jain 10A joined at                          --> 10:36:20
+Sara Singhania 10C joined at                      --> 10:52:35
+Vedika Goenka 10C joined at                       --> 10:12:03
+Ayush Tiwari 10C joined at                        --> 10:26:37
+Sneha Sood 10A joined at                          --> 10:46:03
+Y.C. Deveshwar 10A joined at                      --> 10:29:30
+Aadi Sharma 10A joined at                         --> 10:37:51
+Gauri Khan 10A joined at                          --> 10:53:22
+Peter Parker 10C joined at                        --> 10:38:50
+Abhishek Kumar 10A joined at                      --> 10:37:32
+Aryan K.G 10B joined at                           --> 10:34:31
+Manny Paul 10B joined at                          --> 10:47:18
+Ayush Tiwari 10A joined at                        --> 10:21:11
+Harmanpreet Kaur 10A joined at                    --> 10:10:21
+Manny Paul 10C joined at                          --> 10:21:52
+Harsh Rai 10A joined at                           --> 10:26:29
+Payal Jain 10B joined at                          --> 10:54:31
+Rohit Tanwar 10C joined at                        --> 10:11:35
+Atharv 10B joined at                              --> 10:14:52
+Rajendra Sharma 10B joined at                     --> 10:17:20
+Gagandeep Kang 10B joined at                      --> 10:10:19
+James Harris 10C joined at                        --> 10:14:30
+Rohit Tanwar 10A joined at                        --> 10:53:47
+Vishwajeet Anand 10C joined at                    --> 10:10:41
+Abhishek R U 10C joined at                        --> 10:09:27
+Y.C. Deveshwar 10B joined at                      --> 10:48:40
+Ravish Kumar 10C joined at                        --> 10:13:15
+Nidhi Dani 10C joined at                          --> 10:16:30
+Mayank Gandhi 10A joined at                       --> 10:14:57
+Mukesh Modi 10A joined at                         --> 10:42:53
+Veeresh RG 10B joined at                          --> 10:48:02
+Aditi 10B joined at                               --> 10:36:36
+Kapil 10A joined at                               --> 10:42:26
+Vignesh BH 10A joined at                          --> 10:35:55
+Varun Rajput 10A joined at                        --> 10:20:24
+A SAMEER  AHMED 10B joined at                     --> 10:36:04
+Sarthak Joshi 10A joined at                       --> 10:16:55
+Nidhi Dani 10A joined at                          --> 10:50:02
+Naina Patel 10A joined at                         --> 10:12:21
+Amit Saxena 10B joined at                         --> 10:55:01
+James Harris 10B joined at                        --> 10:30:43
+Maria James 10C joined at                         --> 10:35:16
+Samyukta Shekar 10C joined at                     --> 10:01:46
+Amita Singh 10C joined at                         --> 10:14:58
+Atharv 10A joined at                              --> 10:24:16
+Vedika Goenka 10B joined at                       --> 10:10:45
+Abhinandu 10B joined at                           --> 10:26:04
+Sham Arvind 10A joined at                         --> 10:26:56
+Gauri Khan 10C joined at                          --> 10:46:40
+Nidhi Dani 10B joined at                          --> 10:44:43
+Maria James 10B joined at                         --> 10:33:30
+Sarthak Joshi 10C joined at                       --> 10:50:08
+Sameer Khan 10C joined at                         --> 10:09:12
+Garima Arora 10C joined at                        --> 10:38:04
+Ayush Tiwari 10B joined at                        --> 10:28:02
+Tulsi Sharma 10A joined at                        --> 10:31:30
+Devika Oberoi 10C joined at                       --> 10:33:33
+Abhishek R U 10B joined at                        --> 10:24:46
+Veeresh RG 10A joined at                          --> 10:52:27
+Devika Oberoi 10A joined at                       --> 10:54:18
+Harsh Rai 10C joined at                           --> 10:19:28
+Sara Singhania 10B joined at                      --> 10:16:13
+Manshi Mehta 10C joined at                        --> 10:39:55
+Veeresh RG 10C joined at                          --> 10:55:36
+Naman 10B joined at                               --> 10:32:41
+Kevin Arvind 10A joined at                        --> 10:45:44
+Angel Angelica 10A joined at                      --> 10:24:58
+Noor Khan 10A joined at                           --> 10:42:22
+Vishwajeet Anand 10A joined at                    --> 10:31:11
+Falguni Pathak 10A joined at                      --> 10:14:13
+Akash Ganna 10A joined at                         --> 10:45:23
+Abhinandu 10C joined at                           --> 10:10:01
+Varun Rajput 10C joined at                        --> 10:30:01
+Abinivesh Reddy 10B joined at                     --> 10:43:13
+Akash Ganna 10B joined at                         --> 10:30:48
+Amit Saxena 10C joined at                         --> 10:18:28
+Pankaj Tripathi 10C joined at                     --> 10:48:12
+Khushi Sharma 10B joined at                       --> 10:47:20
+Abinivesh Reddy 10C joined at                     --> 10:43:38
+Maria James 10A joined at                         --> 10:27:11
+Sara Singhania 10A joined at                      --> 10:23:05
+Muskan Afreen 10B joined at                       --> 10:12:49
+Sarthak Joshi 10B joined at                       --> 10:43:39
+Rohit Tanwar 10B joined at                        --> 10:30:40
+Ayush Jain 10A joined at                          --> 10:36:55
+Kapil 10C joined at                               --> 10:14:44
+Madhu Jain 10B joined at                          --> 10:46:01
+Angel Angelica 10C joined at                      --> 10:30:01
+Pranav Mistry 10B joined at                       --> 10:50:02
+Aditi 10C joined at                               --> 10:16:19
+Varun Rajput 10B joined at                        --> 10:22:19
+Kevin Arvind 10B joined at                        --> 10:24:54
+Mayank Gandhi 10C joined at                       --> 10:39:27
+Srinivas Srinidhi 10B joined at                   --> 10:42:55
+Chatur 10A joined at                              --> 10:25:42
+Ali Faiz 10A joined at                            --> 10:16:54
+Priyanka Singh 10C joined at                      --> 10:22:57
+Ravish Kumar 10A joined at                        --> 10:21:12
+Vibhuti Shah 10A joined at                        --> 10:48:50
+Abinivesh Reddy 10A joined at                     --> 10:22:57
+Ashwin 10B joined at                              --> 10:54:27
+Chatur 10C joined at                              --> 10:45:14
+Naman 10A joined at                               --> 10:55:14
+Khushi Sharma 10C joined at                       --> 10:25:58
+Vignesh BH 10C joined at                          --> 10:01:03
+Gagandeep Kang 10C joined at                      --> 10:19:49
+Abhinandu 10A joined at                           --> 10:31:33
+Pranav Mistry 10C joined at                       --> 10:20:30
+Ali Faiz 10B joined at                            --> 10:17:39
+Manasvi Chauhan 10B joined at                     --> 10:09:55
+Aadi Sharma 10B joined at                         --> 10:25:12
+James Harris 10A joined at                        --> 10:49:11
+Sumit Singh 10A joined at                         --> 10:24:45
+
+====================================================
+Percentage of students late for the class - 85.00 % |
+====================================================
+
+Following are the students who were there in the class for less than 80%     of the total class duration:
+
+Zeeshan Zubair 10C attended the session for                 --> 33 minutes
+Mukesh Modi 10C attended the session for                    --> 43 minutes
+Jason Lobo 10C attended the session for                     --> 32 minutes
+Akash Ganna 10C attended the session for                    --> 43 minutes
+Ayush Jain 10C attended the session for                     --> 30 minutes
+Sameer Khan 10A attended the session for                    --> 32 minutes
+Ashwin 10A attended the session for                         --> 38 minutes
+Sham Arvind 10C attended the session for                    --> 34 minutes
+Advik 10A attended the session for                          --> 35 minutes
+Manny Paul 10A attended the session for                     --> 41 minutes
+Pankaj Tripathi 10A attended the session for                --> 27 minutes
+Rajendra Sharma 10C attended the session for                --> 34 minutes
+A SAMEER  AHMED 10C attended the session for                --> 42 minutes
+Sara Singhania 10C attended the session for                 --> 34 minutes
+Ayush Tiwari 10C attended the session for                   --> 33 minutes
+Gauri Khan 10A attended the session for                     --> 42 minutes
+Ayush Tiwari 10A attended the session for                   --> 38 minutes
+Manny Paul 10C attended the session for                     --> 38 minutes
+Harsh Rai 10A attended the session for                      --> 33 minutes
+Atharv 10B attended the session for                         --> 45 minutes
+Rajendra Sharma 10B attended the session for                --> 42 minutes
+James Harris 10C attended the session for                   --> 45 minutes
+Rohit Tanwar 10A attended the session for                   --> 36 minutes
+Y.C. Deveshwar 10B attended the session for                 --> 33 minutes
+Nidhi Dani 10C attended the session for                     --> 43 minutes
+Mayank Gandhi 10A attended the session for                  --> 45 minutes
+Aditi 10B attended the session for                          --> 39 minutes
+Vignesh BH 10A attended the session for                     --> 38 minutes
+Varun Rajput 10A attended the session for                   --> 39 minutes
+A SAMEER  AHMED 10B attended the session for                --> 37 minutes
+Sarthak Joshi 10A attended the session for                  --> 43 minutes
+Nidhi Dani 10A attended the session for                     --> 28 minutes
+Amit Saxena 10B attended the session for                    --> 37 minutes
+James Harris 10B attended the session for                   --> 12 minutes
+Maria James 10C attended the session for                    --> 44 minutes
+Amita Singh 10C attended the session for                    --> 45 minutes
+Atharv 10A attended the session for                         --> 35 minutes
+Abhinandu 10B attended the session for                      --> 33 minutes
+Sham Arvind 10A attended the session for                    --> 33 minutes
+Sarthak Joshi 10C attended the session for                  --> 39 minutes
+Ayush Tiwari 10B attended the session for                   --> 43 minutes
+Tulsi Sharma 10A attended the session for                   --> 44 minutes
+Abhishek R U 10B attended the session for                   --> 35 minutes
+Devika Oberoi 10A attended the session for                  --> 42 minutes
+Harsh Rai 10C attended the session for                      --> 40 minutes
+Sara Singhania 10B attended the session for                 --> 43 minutes
+Kevin Arvind 10A attended the session for                   --> 38 minutes
+Angel Angelica 10A attended the session for                 --> 35 minutes
+Vishwajeet Anand 10A attended the session for               --> 39 minutes
+Falguni Pathak 10A attended the session for                 --> 45 minutes
+Akash Ganna 10A attended the session for                    --> 41 minutes
+Varun Rajput 10C attended the session for                   --> 33 minutes
+Abinivesh Reddy 10B attended the session for                --> 39 minutes
+Amit Saxena 10C attended the session for                    --> 41 minutes
+Pankaj Tripathi 10C attended the session for                --> 36 minutes
+Khushi Sharma 10B attended the session for                  --> 44 minutes
+Abinivesh Reddy 10C attended the session for                --> 45 minutes
+Sara Singhania 10A attended the session for                 --> 36 minutes
+Sarthak Joshi 10B attended the session for                  --> 34 minutes
+Rohit Tanwar 10B attended the session for                   --> 38 minutes
+Ayush Jain 10A attended the session for                     --> 36 minutes
+Kapil 10C attended the session for                          --> 45 minutes
+Madhu Jain 10B attended the session for                     --> 40 minutes
+Angel Angelica 10C attended the session for                 --> 43 minutes
+Pranav Mistry 10B attended the session for                  --> 36 minutes
+Aditi 10C attended the session for                          --> 43 minutes
+Varun Rajput 10B attended the session for                   --> 37 minutes
+Kevin Arvind 10B attended the session for                   --> 35 minutes
+Chatur 10A attended the session for                         --> 34 minutes
+Ali Faiz 10A attended the session for                       --> 43 minutes
+Priyanka Singh 10C attended the session for                 --> 37 minutes
+Ravish Kumar 10A attended the session for                   --> 38 minutes
+Abinivesh Reddy 10A attended the session for                --> 37 minutes
+Naman 10A attended the session for                          --> 30 minutes
+Khushi Sharma 10C attended the session for                  --> 34 minutes
+Gagandeep Kang 10C attended the session for                 --> 40 minutes
+Pranav Mistry 10C attended the session for                  --> 39 minutes
+Ali Faiz 10B attended the session for                       --> 42 minutes
+Aadi Sharma 10B attended the session for                    --> 34 minutes
+James Harris 10A attended the session for                   --> 33 minutes
+Sumit Singh 10A attended the session for                    --> 35 minutes
+
+====================================================
+Percentage of non-attentive students - 50.62 %     |
+====================================================
+
+Note: 0 minutes suggests that student only connected for a few seconds.
